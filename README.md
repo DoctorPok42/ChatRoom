@@ -1,5 +1,3 @@
-<!-- @format -->
-
 # ChatRoom
 
 ## Description
@@ -36,6 +34,13 @@ python .\server\server.py
 ```bash
 python .\src\main.py
 ```
+
+## Commandes
+
+- `/exit` : Quitter le chat
+- `/p <pseudo> <message>` : Envoyer un message privé à un utilisateur
+- `@<pseudo>` : Mentionner un utilisateur
+- `@everyone` : Mentionner tout le monde
 
 ## License
 
